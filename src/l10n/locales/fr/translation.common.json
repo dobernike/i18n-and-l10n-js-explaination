@@ -1,0 +1,25 @@
+{
+    "global": {
+        "SAVE": "Enregistrer",
+        "OK": "OK",
+        "CANCEL": "Annuler",
+        "SIGN_OUT": "Déconnexion",
+        "CLOSE": "Terminé",
+        "CONTINUE": "Continuer",
+        "START": "Démarrer",
+        "YES": "Oui",
+        "NO": "Non",
+        "OR": "ou",
+        "Copy": "Copier"
+    },
+    "shared_screen": {
+        "WEATHERMAN_VIDEO_OFF": "Start your video to show\nyourself in overlay mode.",
+        "select_target_modal": {
+            "app_description": "Only one application window will be shared.",
+            "buttons": {
+                "entire_screen": "Entire screen",
+                "application": "Application"
+            }
+        }
+    }
+}

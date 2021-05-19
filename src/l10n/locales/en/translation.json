@@ -1,0 +1,11 @@
+{   
+    "header": "hello from i18next",
+    "FULL_BRAND_NAME": "Office@Hand Meeting",
+    "global": {
+        "WEB_PAGE_TITLE": "RingCentral Video",
+        "WATERMARK": "RingCentral",
+        "DEFAULT_MEETING_NAME": "RingCentral Video meeting"
+    },
+    "keyPluralSimple": "the singular",
+    "keyPluralSimple_plural": "the plural"
+}
